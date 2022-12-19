@@ -9,6 +9,6 @@ public class ActionClassMoveToElement {
 		 WebElement ele=driver.findElement(By.xpath("//div[text()='Electronics']"));
 		 Actions action1=new Actions(driver);
 		 action1.moveToElement(ele);
-		 action1.perform();
+		 
 		 }
      }
