@@ -10,5 +10,9 @@ public class ActionClassMoveToElement {
 		 Actions action1=new Actions(driver);
 		 action1.moveToElement(ele);
 		 
+		 WebDriver driver=new ChromeDriver();
+		 WebDriver driver=new ChromeDriver();
+		 WebDriver driver=new ChromeDriver();
+		 
 		 }
      }
